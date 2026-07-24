@@ -16,4 +16,4 @@ patches:
   - path: quota-patch.yaml
 images:
   - name: kuberpull/audit-api
-    newTag: dev
+    newTag: 568dd26b069da66c3f14abfcea420a9a051e8f4a
